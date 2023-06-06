@@ -68,3 +68,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+This is a web application that created using PHP and Framework CodeIgniter.
+The master module is create using Library GroceryCrud.
+The PDF report is generated using Library Fpdf.
+The spreadsheet report is generated using LibraryPHPSpreadsheet.
